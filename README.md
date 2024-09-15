@@ -1,2 +1,4 @@
 # Virtual-Stock-Market
-Stock Market Simulation System- Experiance the ups and downs of a stock market, freely!!!!
+![IMage of stock market](./stock_market-simulation.png)
+
+# **WILL UPDATE AND PUT THE SOURCE CODE TOMORROW**
