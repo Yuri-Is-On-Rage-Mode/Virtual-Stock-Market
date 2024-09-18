@@ -1,0 +1,15 @@
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\bin\Debug\Kryptu-Vault.exe.config
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\bin\Debug\Kryptu-Vault.exe
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\bin\Debug\Kryptu-Vault.pdb
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\obj\Debug\Kryptu-Vault.csproj.AssemblyReference.cache
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\obj\Debug\Kryptu_Vault.Properties.Resources.resources
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\obj\Debug\Kryptu-Vault.csproj.GenerateResource.cache
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\obj\Debug\Kryptu-Vault.csproj.CoreCompileInputs.cache
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\obj\Debug\Kryptu-Vault.exe
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\obj\Debug\Kryptu-Vault.pdb
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\obj\Debug\Kryptu_Vault.Form1.resources
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\obj\Debug\Kryptu_Vault.Vault.resources
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\obj\Debug\Kryptu_Vault.KryptoMercat.resources
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\bin\Debug\Newtonsoft.Json.dll
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\bin\Debug\Newtonsoft.Json.xml
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\obj\Debug\Kryptu-V.CC35D31F.Up2Date

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kryptu-Vault", "Kryptu-Vault\Kryptu-Vault.csproj", "{EB21B563-739E-44CF-B69C-D32339ADDBD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB21B563-739E-44CF-B69C-D32339ADDBD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB21B563-739E-44CF-B69C-D32339ADDBD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB21B563-739E-44CF-B69C-D32339ADDBD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB21B563-739E-44CF-B69C-D32339ADDBD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C231C93-C34C-44A8-A40F-C361BE0B49C1}
+	EndGlobalSection
+EndGlobal

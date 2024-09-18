@@ -1,0 +1,12 @@
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\bin\Release\Kryptu-Vault.exe.config
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\bin\Release\Kryptu-Vault.exe
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\bin\Release\Kryptu-Vault.pdb
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\obj\Release\Kryptu-Vault.csproj.AssemblyReference.cache
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\obj\Release\Kryptu_Vault.Form1.resources
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\obj\Release\Kryptu_Vault.KryptoMercat.resources
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\obj\Release\Kryptu_Vault.Properties.Resources.resources
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\obj\Release\Kryptu_Vault.Vault.resources
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\obj\Release\Kryptu-Vault.csproj.GenerateResource.cache
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\obj\Release\Kryptu-Vault.csproj.CoreCompileInputs.cache
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\obj\Release\Kryptu-Vault.exe
+G:\fri3nds\fun-category-projects\Kryptu-Vault\Kryptu-Vault\obj\Release\Kryptu-Vault.pdb
